@@ -1,6 +1,13 @@
-.bike1{
-width: 20%;
+.cabecalho{
+display: flex;
 
+
+}
+
+
+.bike1{
+width:50px;
+height: 50px;
 }
 .bike2{
     width: 50%;

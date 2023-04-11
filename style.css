@@ -1,14 +1,16 @@
-.cabecalho{
-display: flex;
-
+.cabecalho {
+    width: auto;
+    display: flex;
+    flex-direction: row;
 
 }
 
 
-.bike1{
-width:50px;
-height: 50px;
+.bike1 {
+    width: 200px;
+    height: 200px;
 }
-.bike2{
+
+.bike2 {
     width: 50%;
 }
